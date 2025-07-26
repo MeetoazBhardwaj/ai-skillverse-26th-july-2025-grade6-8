@@ -14,10 +14,7 @@ Welcome to the official repository for the **AI Skillverse Bootcamp**, conducted
 
 > From our Day 1 session — save, share, remix, and show your parents how cool AI class was!
 
-![AI Skillverse - Group Learning](https://placehold.co/800x400?text=AI+Skillverse+Class+Photo+1)
-![AI Skillverse - Live Prompting Fun](https://placehold.co/800x400?text=Prompt+Activity+Screenshot+2)
-
-📌 **Want your face blurred or removed? Message us on WhatsApp privately.**
+![Alt Text 2](https://github.com/MeetoazBhardwaj/ai-skillverse-26th-july-2025-grade6-8/blob/main/image2.png?raw=true)
 
 ---
 
@@ -25,7 +22,7 @@ Welcome to the official repository for the **AI Skillverse Bootcamp**, conducted
 
 | Day    | Theme                                             | Status |
 |--------|---------------------------------------------------|--------|
-| ✅ Day 1 | Meet ChatGPT + Prompt Engineering                 | Uploaded ✅ |
+| ✅ Day 1 | ChatGPT + Perplexity + Prompt Engineering + NotebookLM + NapkinAI  | Uploaded ✅ |
 | ⏳ Day 2 | Voice Mode + Creative AI Projects (Notebook LM)   | Coming Soon 🔜 |
 | ⏳ Day 3 | Build & Present: Final AI Showcase                | Coming Soon 🔜 |
 
@@ -42,7 +39,7 @@ Join our learning community WhatsApp group to:
 - 💡 Collaborate on fun AI mini-projects  
 - 🎨 Show your creativity with prompts
 
-👉 **[Click to join WhatsApp Group](https://wa.me/xxxxxxxxxx)** *(replace with your link)*
+👉 **[Click to join WhatsApp Group](https://chat.whatsapp.com/KTRwGhmCyMe1GEwb85GT6Q?mode=r_c)** 
 
 ---
 
@@ -50,11 +47,11 @@ Join our learning community WhatsApp group to:
 
 | Tool           | Link                                      | What it does                              |
 |----------------|-------------------------------------------|--------------------------------------------|
-| ChatGPT        | [chat.openai.com](https://chat.openai.com) | AI chat, prompts, role-play learning       |
+| ChatGPT        | [chat.openai.com](https://chat.openai.com) | AI chat, prompts, 1-on-1 learning       |
 | Perplexity AI  | [perplexity.ai](https://www.perplexity.ai) | Search + sources + summary in one go       |
 | Notebook LM    | [notebooklm.google](https://notebooklm.google) | Turn your chapters into a personal tutor   |
 | Napkin AI      | [napkin.one](https://napkin.one)           | Mind mapping + creative visual organiser   |
-| NCERT Books    | [ncert.nic.in/textbook.php](https://ncert.nic.in/textbook.php) | Source textbook chapters                   |
+| NCERT Books    | [NCERT Books Download](https://ncert.nic.in/textbook.php) | Source textbook chapters                   |
 
 ---
 
